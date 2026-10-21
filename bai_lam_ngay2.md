@@ -2,7 +2,7 @@
 
 - **Họ tên:** Nguyễn Đức Tài
 - **Lớp:** Công nghệ thông tin 2
-- **Link repository:**
+- **Link repository:** https://github.com/nguyentai090520082010/HN-KS26-CNTT2_Nhap-mon-CNTT_OnTap-Ngay2.git
 - **Hệ điều hành (Windows/macOS):** Windows
 
 ## Bài 1. Lọc log thủ công
